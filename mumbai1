@@ -1,1 +1,7 @@
 git init ->for inisialised
+git status
+git add .
+git log
+git show <id>
+git remote add origin <repo url:- https://github.com/buntymishra/centralgit.git>
+git push -u origin master 
